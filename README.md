@@ -16,8 +16,8 @@ Dengan beberapa fitur seperti:
 
 Tampilan program saat validasi berhasil:
 
-![Tampilan Saat Berhasil](img/berhasil.png)
+![Tampilan Saat Gagal](img/valid.png)
 
 Tampilan program saat validasi gagal:
 
-![Tampilan Saat Gagal](img/gagal.png)
+![Tampilan Saat Gagal](img/invalid.png)
